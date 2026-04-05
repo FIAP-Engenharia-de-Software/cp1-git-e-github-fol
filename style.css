@@ -87,3 +87,31 @@ footer #socialmedia{
     margin: 10px 0;
     font-size: 16px;
 }
+
+.contato-form {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.contato-form input,
+.contato-form textarea {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+}
+
+.contato-form button {
+    background-color: #2980b9;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.contato-form button:hover {
+    background-color: #1f6690;
+}
