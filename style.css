@@ -115,3 +115,14 @@ footer #socialmedia{
 .contato-form button:hover {
     background-color: #1f6690;
 }
+
+#socialmedia a {
+    color: #fff;
+    text-decoration: none;
+    margin: 5px 0;
+    font-weight: bold;
+}
+
+#socialmedia a:hover {
+    text-decoration: underline;
+}
