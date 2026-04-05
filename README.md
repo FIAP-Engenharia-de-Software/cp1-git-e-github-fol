@@ -20,9 +20,9 @@ O projeto simula um ambiente corporativo de desenvolvimento, aplicando boas prá
 
 ## 👥 Integrantes do grupo
 
-- Felipe Santos Ribas
-- Luiz Gonzaga Lima de Cerqueira Silva
-- Orion Cavalcante França
+- Felipe Santos Ribas — RM: 569121
+- Luiz Gonzaga Lima de Cerqueira Silva — RM: 572446
+- Orion Cavalcante França — RM: 573677
 
 ---
 
