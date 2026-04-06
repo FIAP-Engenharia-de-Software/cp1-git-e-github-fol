@@ -29,7 +29,7 @@ O projeto simula um ambiente corporativo de desenvolvimento, aplicando boas prá
 ## 🌐 Acesso ao projeto
 
 🔗 Repositório: https://github.com/FIAP-Engenharia-de-Software/cp1-fol-git-e-github-fol
-🔗 GitHub Pages: *(será adicionado após a publicação)*
+🔗 GitHub Pages: https://fiap-engenharia-de-software.github.io/cp1-fol-git-e-github-fol/
 
 ---
 
